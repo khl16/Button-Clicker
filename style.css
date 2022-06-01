@@ -1,0 +1,126 @@
+.green{
+    margin: 0px 300px;
+}
+
+#serch{
+    width: 500px;
+    height: 40px;
+}
+#A{
+    height: 40px;
+    width: 80px;
+    background-color: rgb(40, 121, 197);
+    color: white;
+}
+
+#B{
+    height: 40px;
+    width: 80px;
+    background-color: rgb(235, 194, 13);
+    color: rgb(0, 0, 0); 
+}
+
+#C{
+    height: 40px;
+    width: 80px;
+    background-color: rgb(235, 194, 13);
+    color: rgb(0, 0, 0); 
+}
+#E{
+    font-size: 20px;
+    background-color: rgb(39, 171, 81);
+    color: rgb(0, 0, 0);
+}
+/*--------------block1--------------------*/
+
+.orang1{
+    display: flex;
+    justify-content:center;
+    align-content: center;
+    align-items: center;
+    background-color: rgb(193, 193, 193);
+}
+
+.blue1{
+ margin-right: 80px; 
+}
+
+.blue2{
+  margin:0px 70px	
+}
+
+.blue3{
+    margin-left: 80px;  
+}
+
+
+/*--------------block2--------------------*/
+.green2{
+    display: flex;
+    align-content: center;
+}
+
+.oreng2{
+    padding:0px ;
+    flex-grow: 0.5;
+}
+
+.black1{
+    border: 5px solid rgb(0, 2, 5);
+    display: flex;
+	align-items: center;
+	align-content: stretch;
+    margin: 30px;
+    font-size: 30px;
+    padding-bottom: 15px;
+}
+
+.blue4{
+    text-align: center;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.blue5{
+    margin-left: 50px;
+}
+
+.black2{
+    border: 5px solid rgb(0, 2, 5);
+    display: flex;
+	align-items: center;
+	align-content: stretch;
+    margin: 30px;
+    font-size: 30px;
+    padding-bottom: 15px;
+}
+
+/*--------------block3--------------------*/
+
+.oreng3{
+    display: flex;
+	flex-direction: column;
+	justify-content: start;
+    font-size: 30px;
+    margin: 30px;
+}
+
+.blue6{
+    border: 5px solid rgb(0, 2, 5); 
+   align-items: center;
+   padding: 0px 10px;
+   padding: 20px;
+}
+
+.blue7{
+    display: flex;
+	flex-direction: column;
+    font-size: 30px;
+}
+
+
+
+
+
+
+
